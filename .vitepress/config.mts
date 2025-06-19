@@ -5,7 +5,7 @@ export default defineConfig({
   base: "/weiyi-blog/",
   lang: "zh-CN",
   title: "weiyi-blog",
-  description: "record some study",
+  description: "记录一些学习",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [

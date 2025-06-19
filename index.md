@@ -3,23 +3,22 @@
 layout: home
 
 hero:
-  name: "weiyi-blog"
-  text: "record some study"
-  tagline: My great project tagline
+  name: "魏一"
+  text: "记录一些学习"
+  # tagline: My great project tagline
   actions:
     - theme: brand
-      text: Markdown Examples
+      text: 快速开始
       link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+    # - theme: alt
+    #   text: API Examples
+    #   link: /api-examples
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: 客户端
+    details: react, vue, nestjs等学习笔记
+  - title: 服务端
+    details: java，python 等学习笔记
+  - title: 其他
+    details: 网络，工具 等学习笔记
 ---
-
