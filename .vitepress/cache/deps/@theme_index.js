@@ -9,38 +9,38 @@ import {
 } from "./chunk-W6V53FDX.js";
 
 // node_modules/vitepress/dist/client/theme-default/index.js
-import "D:/study/blog/weiyi-blog/node_modules/vitepress/dist/client/theme-default/styles/fonts.css";
+import "D:/work/blog/weiyi-blog/node_modules/vitepress/dist/client/theme-default/styles/fonts.css";
 
 // node_modules/vitepress/dist/client/theme-default/without-fonts.js
-import "D:/study/blog/weiyi-blog/node_modules/vitepress/dist/client/theme-default/styles/vars.css";
-import "D:/study/blog/weiyi-blog/node_modules/vitepress/dist/client/theme-default/styles/base.css";
-import "D:/study/blog/weiyi-blog/node_modules/vitepress/dist/client/theme-default/styles/icons.css";
-import "D:/study/blog/weiyi-blog/node_modules/vitepress/dist/client/theme-default/styles/utils.css";
-import "D:/study/blog/weiyi-blog/node_modules/vitepress/dist/client/theme-default/styles/components/custom-block.css";
-import "D:/study/blog/weiyi-blog/node_modules/vitepress/dist/client/theme-default/styles/components/vp-code.css";
-import "D:/study/blog/weiyi-blog/node_modules/vitepress/dist/client/theme-default/styles/components/vp-code-group.css";
-import "D:/study/blog/weiyi-blog/node_modules/vitepress/dist/client/theme-default/styles/components/vp-doc.css";
-import "D:/study/blog/weiyi-blog/node_modules/vitepress/dist/client/theme-default/styles/components/vp-sponsor.css";
-import VPBadge from "D:/study/blog/weiyi-blog/node_modules/vitepress/dist/client/theme-default/components/VPBadge.vue";
-import Layout from "D:/study/blog/weiyi-blog/node_modules/vitepress/dist/client/theme-default/Layout.vue";
-import { default as default2 } from "D:/study/blog/weiyi-blog/node_modules/vitepress/dist/client/theme-default/components/VPBadge.vue";
-import { default as default3 } from "D:/study/blog/weiyi-blog/node_modules/vitepress/dist/client/theme-default/components/VPButton.vue";
-import { default as default4 } from "D:/study/blog/weiyi-blog/node_modules/vitepress/dist/client/theme-default/components/VPDocAsideSponsors.vue";
-import { default as default5 } from "D:/study/blog/weiyi-blog/node_modules/vitepress/dist/client/theme-default/components/VPFeatures.vue";
-import { default as default6 } from "D:/study/blog/weiyi-blog/node_modules/vitepress/dist/client/theme-default/components/VPHomeContent.vue";
-import { default as default7 } from "D:/study/blog/weiyi-blog/node_modules/vitepress/dist/client/theme-default/components/VPHomeFeatures.vue";
-import { default as default8 } from "D:/study/blog/weiyi-blog/node_modules/vitepress/dist/client/theme-default/components/VPHomeHero.vue";
-import { default as default9 } from "D:/study/blog/weiyi-blog/node_modules/vitepress/dist/client/theme-default/components/VPHomeSponsors.vue";
-import { default as default10 } from "D:/study/blog/weiyi-blog/node_modules/vitepress/dist/client/theme-default/components/VPImage.vue";
-import { default as default11 } from "D:/study/blog/weiyi-blog/node_modules/vitepress/dist/client/theme-default/components/VPLink.vue";
-import { default as default12 } from "D:/study/blog/weiyi-blog/node_modules/vitepress/dist/client/theme-default/components/VPNavBarSearch.vue";
-import { default as default13 } from "D:/study/blog/weiyi-blog/node_modules/vitepress/dist/client/theme-default/components/VPSocialLink.vue";
-import { default as default14 } from "D:/study/blog/weiyi-blog/node_modules/vitepress/dist/client/theme-default/components/VPSocialLinks.vue";
-import { default as default15 } from "D:/study/blog/weiyi-blog/node_modules/vitepress/dist/client/theme-default/components/VPSponsors.vue";
-import { default as default16 } from "D:/study/blog/weiyi-blog/node_modules/vitepress/dist/client/theme-default/components/VPTeamMembers.vue";
-import { default as default17 } from "D:/study/blog/weiyi-blog/node_modules/vitepress/dist/client/theme-default/components/VPTeamPage.vue";
-import { default as default18 } from "D:/study/blog/weiyi-blog/node_modules/vitepress/dist/client/theme-default/components/VPTeamPageSection.vue";
-import { default as default19 } from "D:/study/blog/weiyi-blog/node_modules/vitepress/dist/client/theme-default/components/VPTeamPageTitle.vue";
+import "D:/work/blog/weiyi-blog/node_modules/vitepress/dist/client/theme-default/styles/vars.css";
+import "D:/work/blog/weiyi-blog/node_modules/vitepress/dist/client/theme-default/styles/base.css";
+import "D:/work/blog/weiyi-blog/node_modules/vitepress/dist/client/theme-default/styles/icons.css";
+import "D:/work/blog/weiyi-blog/node_modules/vitepress/dist/client/theme-default/styles/utils.css";
+import "D:/work/blog/weiyi-blog/node_modules/vitepress/dist/client/theme-default/styles/components/custom-block.css";
+import "D:/work/blog/weiyi-blog/node_modules/vitepress/dist/client/theme-default/styles/components/vp-code.css";
+import "D:/work/blog/weiyi-blog/node_modules/vitepress/dist/client/theme-default/styles/components/vp-code-group.css";
+import "D:/work/blog/weiyi-blog/node_modules/vitepress/dist/client/theme-default/styles/components/vp-doc.css";
+import "D:/work/blog/weiyi-blog/node_modules/vitepress/dist/client/theme-default/styles/components/vp-sponsor.css";
+import VPBadge from "D:/work/blog/weiyi-blog/node_modules/vitepress/dist/client/theme-default/components/VPBadge.vue";
+import Layout from "D:/work/blog/weiyi-blog/node_modules/vitepress/dist/client/theme-default/Layout.vue";
+import { default as default2 } from "D:/work/blog/weiyi-blog/node_modules/vitepress/dist/client/theme-default/components/VPBadge.vue";
+import { default as default3 } from "D:/work/blog/weiyi-blog/node_modules/vitepress/dist/client/theme-default/components/VPButton.vue";
+import { default as default4 } from "D:/work/blog/weiyi-blog/node_modules/vitepress/dist/client/theme-default/components/VPDocAsideSponsors.vue";
+import { default as default5 } from "D:/work/blog/weiyi-blog/node_modules/vitepress/dist/client/theme-default/components/VPFeatures.vue";
+import { default as default6 } from "D:/work/blog/weiyi-blog/node_modules/vitepress/dist/client/theme-default/components/VPHomeContent.vue";
+import { default as default7 } from "D:/work/blog/weiyi-blog/node_modules/vitepress/dist/client/theme-default/components/VPHomeFeatures.vue";
+import { default as default8 } from "D:/work/blog/weiyi-blog/node_modules/vitepress/dist/client/theme-default/components/VPHomeHero.vue";
+import { default as default9 } from "D:/work/blog/weiyi-blog/node_modules/vitepress/dist/client/theme-default/components/VPHomeSponsors.vue";
+import { default as default10 } from "D:/work/blog/weiyi-blog/node_modules/vitepress/dist/client/theme-default/components/VPImage.vue";
+import { default as default11 } from "D:/work/blog/weiyi-blog/node_modules/vitepress/dist/client/theme-default/components/VPLink.vue";
+import { default as default12 } from "D:/work/blog/weiyi-blog/node_modules/vitepress/dist/client/theme-default/components/VPNavBarSearch.vue";
+import { default as default13 } from "D:/work/blog/weiyi-blog/node_modules/vitepress/dist/client/theme-default/components/VPSocialLink.vue";
+import { default as default14 } from "D:/work/blog/weiyi-blog/node_modules/vitepress/dist/client/theme-default/components/VPSocialLinks.vue";
+import { default as default15 } from "D:/work/blog/weiyi-blog/node_modules/vitepress/dist/client/theme-default/components/VPSponsors.vue";
+import { default as default16 } from "D:/work/blog/weiyi-blog/node_modules/vitepress/dist/client/theme-default/components/VPTeamMembers.vue";
+import { default as default17 } from "D:/work/blog/weiyi-blog/node_modules/vitepress/dist/client/theme-default/components/VPTeamPage.vue";
+import { default as default18 } from "D:/work/blog/weiyi-blog/node_modules/vitepress/dist/client/theme-default/components/VPTeamPageSection.vue";
+import { default as default19 } from "D:/work/blog/weiyi-blog/node_modules/vitepress/dist/client/theme-default/components/VPTeamPageTitle.vue";
 
 // node_modules/vitepress/dist/client/theme-default/composables/local-nav.js
 import { onContentUpdated } from "vitepress";
